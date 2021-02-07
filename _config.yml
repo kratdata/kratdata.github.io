@@ -3,11 +3,11 @@ name: "KratData"
 title: "KratData"
 description: "Iot.Web.Data.Engineering"
 meta_description: "Iot.Web.Data.Engineering"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/Krat.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'wowthemesnet@gmail.com'
+email: 'kratdata@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
