@@ -3,7 +3,7 @@ name: "KratData"
 title: "KratData"
 description: "Iot.Web.Data.Engineering"
 meta_description: "Iot.Web.Data.Engineering"
-logo: 'assets/images/Krat2.png'
+logo: 'assets/images/KratLogo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
